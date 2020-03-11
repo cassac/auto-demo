@@ -1,0 +1,11 @@
+{
+  "name": "automation-sales-pipeline",
+  "version": "1.0.0",
+  "main": "automate.js",
+  "scripts": {
+    "start": "node automate.js"
+  },
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
